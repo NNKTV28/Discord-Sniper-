@@ -1,4 +1,4 @@
-# aioDiscordSniper
+# NNKtv28 Discord Sniper tool
 A fast, flexible & extensible Discord sniper.
 
 ## Installation
