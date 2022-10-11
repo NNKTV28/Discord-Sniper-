@@ -2,6 +2,10 @@
 A fast, flexible & extensible Discord sniper.
 
 ## Installation
+
+NPMJS must be installed  in order for this tool to work
+you can install it here  --> https://www.npmjs.com/package/npm
+
 NpmJS:
 ```
 npm i discord.js-selfbot
